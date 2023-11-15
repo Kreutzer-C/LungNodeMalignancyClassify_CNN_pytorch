@@ -14,6 +14,8 @@ LUNA16 is a dataset containing a two-stage task. In first stage, you need to ide
 
 The main processing of LUNA16 by the dataset we are using lies in locking down the location of the suspicious nodes by cropping, so you only need to complete the second stage task above.
 
+Please download the dataset from [https://www.kaggle.com/datasets/kmader/lungnodemalignancy](https://www.kaggle.com/datasets/kmader/lungnodemalignancy) and move all_patches.hdf5 into /LNMC/dataset/ in our workspace.
+
 ## Data Display
 
 ![Untitled](Untitled.png)
